@@ -38,7 +38,7 @@ Tickets originate from multiple sources, including web forms, emails, phone call
 Once submitted, tickets appear in the Help Desk Agent Panel. Communication between agents and users is logged for transparency and accountability.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SQVv2Qp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
@@ -57,5 +57,5 @@ Agents analyze, troubleshoot, and resolve assigned tickets. Escalation rules det
 Once the issue is resolved, agents update the ticket status and document the final resolution steps. Best practice dictates that every completed task should be ticketed, reinforcing the importance of structured workflows and IT metrics.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NawKSCt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
