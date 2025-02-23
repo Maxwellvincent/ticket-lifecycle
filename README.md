@@ -47,7 +47,7 @@ Once submitted, tickets appear in the Help Desk Agent Panel. Communication betwe
 Agents analyze, troubleshoot, and resolve assigned tickets. Escalation rules determine who can modify high-priority tickets. Some tickets may be inaccessible until granted appropriate permissions in the Admin Panel, demonstrating restricted access controls.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/jWcsh9X" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
