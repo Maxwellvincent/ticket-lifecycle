@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Tickets originate from multiple sources, including web forms, emails, phone calls, and direct in-person requests. End-users submit support tickets through the osTicket user portal.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YWIHhjE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
